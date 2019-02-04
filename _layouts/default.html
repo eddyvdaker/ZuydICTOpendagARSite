@@ -1,0 +1,18 @@
+<!doctype html>
+<html>
+  <header>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="{{ site.url }}/assets/css/styles.css">
+  </header>
+  <body>
+    {% if site.instruction %}
+      {% include instruction.html %}
+    {% endif %}
+    <div class="content">
+      {{ content }}
+    </div>
+  </body>
+  <footer>
+  </footer>
+</html>
