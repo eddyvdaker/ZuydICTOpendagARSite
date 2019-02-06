@@ -52,3 +52,24 @@
   width: 60%;
   height: 30%;
 }
+
+footer {
+	text-align: center;
+}
+
+.post-content table {
+	border-collapse: collapse;
+}
+
+.post-content table, th, td {
+	border: 1px solid black;
+	padding-right: 50px;
+}
+
+.proefstuderen, .community {
+	text-align: center;
+}
+
+.community img {
+	padding-top: 20px;
+}

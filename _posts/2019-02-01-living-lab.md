@@ -1,6 +1,5 @@
 ---
 summary: "Het Living Lab toont een aantal praktijkgerichte projecten en demonstrators gemaakt door studenten, stagiairs/stagiaires en medewerkers."
-video: "https://www.youtube.com/embed/ixJCo0cyAuA"
 ---
 In het Living Lab worden een aantal praktijkgerichte projecten en demonstraties getoond. Deze demonstraties zijn gemaakt in samenwerking met studenten, stagiairs/stagiaires en medewerkers/docenten.
 
