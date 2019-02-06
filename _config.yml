@@ -11,6 +11,6 @@ defaults:
     values:
       layout: "default"
 
-url: ""
+url: "/ZuydICTOpendagARSite"
 
 instruction: true
