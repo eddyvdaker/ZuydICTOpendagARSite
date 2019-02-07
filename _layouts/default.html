@@ -7,7 +7,9 @@
   </header>
   <body>
     {% if site.instruction %}
-      {% include instruction.html %}
+      {% if page.instruction %}
+        {% include instruction.html %}
+      {% endif %}
     {% endif %}
     <div class="content">
       {{ content }}

@@ -1,4 +1,5 @@
 ---
+instruction: false
 summary: "De docentenruimte is een ruimte waar docenten (en enkele andere medewerkers van de faculteit ICT) hun werk naast het verzorgen van lessen uitvoeren.
 "
 ---
