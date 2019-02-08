@@ -1,6 +1,5 @@
 ---
 instruction: false
-summary: In deze hal liggen de leslokalen, gedurende de open dag zijn in deze lokalen verschillende presentaties. Aan het einde van de hal worden een aantal minoren en minor projecten gepresenteerd.
 ---
 
 ### Presentaties:
@@ -14,3 +13,6 @@ summary: In deze hal liggen de leslokalen, gedurende de open dag zijn in deze lo
 ### Meet & Greet
 * HBO-ICT - B3.208
 * AD-ICT - B3.213
+
+## Minoren
+Aan het einde van deze hal worden de minoren (keuzenblokken) gepresenteerd.
